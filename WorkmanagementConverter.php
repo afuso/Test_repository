@@ -5,7 +5,7 @@ require_once(INC_PATH.'Importer.class.php');
 $channels = array(
     array(
         'importArgs' => array('channel_id' => 6316, 'name' => 'Workmanagement AG Rapperswil',),
-        'readArgs' => array('url' => 'http://downloads.sputnik-it.com/sps_downloads/jobplattforms/jobch/12324/vacancies.xml'),
+        'readArgs' => array('url' => 'http://www.jobs.ch'),
     ),
 
     array(
